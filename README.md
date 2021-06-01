@@ -1,33 +1,96 @@
-##  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> About ME
-> **This bot made by : [Meezy#0226](https://discord.com/oauth2/authorize?client_id=796578809360547891&scope=bot&permissions=8589934591)** <br><br> <br> 
-> **if you want to support me please invite my bot to join your server please [click here](https://discord.com/oauth2/authorize?client_id=796578809360547891&scope=bot&permissions=8589934591)** <br> <br> <br> 
-> **if you have any question please join this [server](https://discord.gg/3nTFpUpq8M)**
+# Discord Music Bot
 
+In This tutorial Series I am explaining you how to do an advanced Music Bot in Discord, using the Distube Package
 
+It is fast and very good!
 
-## Set Up
+First I will explain in several videos how to do specific Commands from skip to forward and lyrics!
 
-> first you need to help `Node.js version 12+` if you don't have it please [click here](https://nodejs.org/en/) to download. <br> <br>
-> secenond you need to run `npm i` if it's error please you type `npm init` <br> <br>
-> Go to botconfig and open config.json
-> third you need to copy your token from [Discord developers](https://discord.com/developers/applications) `prefix` and`Cookie-youtube` <br> br>
-> The last thing you run your code with `node .`
+After that i will cover some more backend stuff, like adding reactions, filters, how to use cookies, spotify playlist supports etc. etc.
 
+## Installation | How to use the Bot
 
-<!DOCTYPE html>
-<html>
-<body>
-<div>
-<h1 style="text-align: center; font-family: Jersey Sharp; color: yellowgreen;">MADE BY Meezy#0226</h1>
-<p style="text-align: center;color: blueviolet;font-family: Jersey Sharp;">If you have any question pls join my Discord</p>
-</div>
-<div>
-  <a href="https://discord.gg/3nTFpUpq8M">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/></a>
-    <a href="https://www.youtube.com/channel/UCDdwb3fXESCSVd0iE3Xs2Eg">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Youtube" width="80"/></a>
-</div>
+ **1.** Install [node.js v12+](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
 
+ **2.** Download this repo and unzip it    |    or git clone it
 
-</body>
-</html>
+ **3.** Install all of the packages with **`npm install`**
+
+ **4** Fill in the parameters, RIGHT in `./botconfig/config.json`!
+
+ **5.** start the bot with **`node index.js`**
+
+#### **NOTE:**
+
+*If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
+
+*MAKE SURE THAT THE BOT HAS ADMIN*
+
+# TUTORIAL LISTS
+
+- **1. BASICS - play - skip - stop ...** 
+
+    - Tutorial Video: [Click Here](https://youtu.be/tF2hYHW3H4w)
+
+    - Source Code: [Click Here]()
+
+- **2. Handeling the Commands**
+
+# SUPPORT ME
+BY [INVITING MY PUBLIC MUSIC BOT 24/7 UPTIME!](https://discord.com/api/oauth2/authorize?client_id=742672021422342165&permissions=8&scope=bot)
+
+This repository only exists, because of this DISCORD BOT, so make sure to invite it, so that i can keep this Repo up to date ;)
+
+## BEST HOSTING | Bittmax.de
+BITTMAX Quality is their solution.
+Bittmax is our first and probably most important sponsor!
+
+**What they are offering:**
+> Quality LXC & KVM (Root) Server
+> Minecraft Hosting, as well as BungeeCord Network Hosting support
+> Cheap and fast Domains
+> WEBHOSTING
+> DISCORD, TEAMSPEAK, Setups / Music Bots
+> GAME SERVER, Rust, Gary's Mod, ..
+
+**Discord Server:**
+[https://discord.gg/GgjJZCyYKD](https://discord.gg/GgjJZCyYKD)
+
+**Website:**
+[https://bittmax.de/](https://bittmax.de/])
+
+GET **5%** OFF EVERYTHING FOR EVER!
+Code: **`x10`**
+
+## MC-Host24.de
+MC-Host24.de is selling the Best Digital Hosting Services ever!
+Like For games..
+
+**What they are offering:**
+> Quality LXC & KVM (Root) Server
+> WORLDS BEST Minecraft Hosting,
+> Cheap and fast Domains
+> WEBHOSTING
+> DISCORD, TEAMSPEAK, Setups / Music Bots
+> GAME SERVER, Rust, Gary's Mod, ..
+
+**Discord Server:**
+[https://discord.com/invite/4dGuGXK4A4](https://discord.com/invite/4dGuGXK4A4)
+
+**Website:**
+[mc-host24.de](https://mc-host24.de/user/affiliate/3121])
+
+# DISCORD BOTS
+
+You can always Support me by inviting one of my **own Discord Bots**
+
+[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.eu)
+[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.eu)
+
+[OTHER BOTS](https://bots.musicium.eu)
+
+[| fork my repository  |](https://github.com/user/repository/fork)
+[watch this repo  |](https://github.com/user/repository/subscription)
+[create issue |](https://github.com/user/repository/issues/new)
+
+*Both bots are still in Development, and will always be in development, this means always uptodate and always online and always improving!*
