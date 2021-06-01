@@ -10,7 +10,7 @@
 > first you need to help `Node.js version 12+` if you don't have it please [click here](https://nodejs.org/en/) to download. <br> <br>
 > secenond you need to run `npm i` if it's error please you type `npm init` <br> <br>
 > Go to botconfig and open config.json
-> third you need to copy your token from [Discord developers](https://discord.com/developers/applications) and `prefix` <br> br>
+> third you need to copy your token from [Discord developers](https://discord.com/developers/applications) `prefix` and`Cookie-youtube` <br> br>
 > The last thing you run your code with `node .`
 
 
