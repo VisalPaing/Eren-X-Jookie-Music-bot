@@ -1,4 +1,4 @@
-## About ME
+##  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> About ME
 > **This bot made by : [Meezy#0226](https://discord.com/oauth2/authorize?client_id=796578809360547891&scope=bot&permissions=8589934591)** <br><br> <br> 
 > **if you want to support me please invite my bot to join your server please [click here](https://discord.com/oauth2/authorize?client_id=796578809360547891&scope=bot&permissions=8589934591)** <br> <br> <br> 
 > **if you have any question please join this [server](https://discord.gg/3nTFpUpq8M)**
