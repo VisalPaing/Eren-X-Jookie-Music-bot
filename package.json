@@ -1,14 +1,14 @@
 {
-  "name": "erenxjookie",
+  "name": "discord-js-handler-template",
   "version": "1.0.0",
-  "description": "This Repository try to copy the MUSIC DISCORD BOT: Jookie as good as possible, without the Dashboard.",
+  "description": "Discord.js Command and Event Handler Template with example Command usages! For Questions: https://discord.gg/fS6qBSm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Meezy#0226",
-  "license": "MIT",
+  "author": "Tomato#6966",
+  "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.4.0",
     "ascii-table": "0.0.9",
@@ -20,20 +20,5 @@
   "devDependencies": {
     "ascii-table": "0.0.9",
     "colors": "^1.4.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/VisalPaing/Eren-X-Jookie.git"
-  },
-  "keywords": [
-    "Discord-Music",
-    "Meezy",
-    "Discord-Bot",
-    "Jookie-bot-discord",
-    "Discord-Autoplay"
-  ],
-  "bugs": {
-    "url": "https://github.com/VisalPaing/Eren-X-Jookie/issues"
-  },
-  "homepage": "https://github.com/VisalPaing/Eren-X-Jookie#readme"
+  }
 }
