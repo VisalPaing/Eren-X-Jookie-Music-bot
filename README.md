@@ -18,7 +18,7 @@
 <html>
 <body>
 <div>
-<h1 style="text-align: center; font-family: Jersey Sharp; color: yellowgreen;">MADE BY EREN</h1>
+<h1 style="text-align: center; font-family: Jersey Sharp; color: yellowgreen;">MADE BY Meezy#0226</h1>
 <p style="text-align: center;color: blueviolet;font-family: Jersey Sharp;">If you have any question pls join my Discord</p>
 </div>
 <div>
