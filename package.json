@@ -1,5 +1,5 @@
 {
-  "name": "discord-js-handler-template",
+  "name": "erenxjookie",
   "version": "1.0.0",
   "description": "Discord.js Command and Event Handler Template with example Command usages! For Questions: https://discord.gg/fS6qBSm",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Tomato#6966",
+  "author": "Meezy#0226",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.4.0",
