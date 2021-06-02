@@ -1,0 +1,17 @@
+{
+   "token": "",
+   "prefix": "m!",
+   "owner": "777540530032607236",
+   "music_settings": {
+      "searchSongs": false,
+      "emitNewSongOnly": false,
+      "highWaterMark": 67108864,
+      "leaveOnEmpty": true,
+      "leaveOnFinish": false,
+      "leaveOnStop": true,
+      "youtubeDL": true,
+      "updateYouTubeDL": true,
+      "youtube_cookie": "Your Cookie youtube please put here tip to get cookie youtube: https://www.youtube.com/watch?v=qymuvhBetnM"
+   }
+}
+
